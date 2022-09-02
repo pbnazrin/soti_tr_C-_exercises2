@@ -1,0 +1,8 @@
+C:\Users\npb\source\repos\C_exercises2\C_exercises2\bin\Debug\C_exercises2.exe.config
+C:\Users\npb\source\repos\C_exercises2\C_exercises2\bin\Debug\C_exercises2.exe
+C:\Users\npb\source\repos\C_exercises2\C_exercises2\bin\Debug\C_exercises2.pdb
+C:\Users\npb\source\repos\C_exercises2\C_exercises2\obj\Debug\C_exercises2.csproj.AssemblyReference.cache
+C:\Users\npb\source\repos\C_exercises2\C_exercises2\obj\Debug\C_exercises2.csproj.SuggestedBindingRedirects.cache
+C:\Users\npb\source\repos\C_exercises2\C_exercises2\obj\Debug\C_exercises2.csproj.CoreCompileInputs.cache
+C:\Users\npb\source\repos\C_exercises2\C_exercises2\obj\Debug\C_exercises2.exe
+C:\Users\npb\source\repos\C_exercises2\C_exercises2\obj\Debug\C_exercises2.pdb
